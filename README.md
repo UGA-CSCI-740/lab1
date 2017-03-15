@@ -2,7 +2,7 @@
 This is the first lab assignment.
 
 ### Goal
-You are to learn how to use GitHub, Travis CI, and Codacy. These tools will be used for every lab.
+You are to use GitHub, Travis CI, and Codacy. These tools will be used for every lab.
 
 ### What you have to do
 - [ ] Take a screen shot of the VM desktop
