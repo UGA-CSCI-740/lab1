@@ -5,8 +5,8 @@ This is the first lab assignment.
 You are to learn how to use GitHub for doing the labs and turing them in.
 
 ### What you have to do
-- [ ]Take a screen shot of the VM
-- [ ]Upload to github
+- [ ] Take a screen shot of the VM
+- [ ] Upload to github
 
 ## Things that might help you out.
 Learning git can get annoying. Here are a few resources that can help you on the way.
