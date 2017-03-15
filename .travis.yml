@@ -1,1 +1,6 @@
+install: gem install mdl
 
+script: mdl README.md
+
+notifications:
+      email: false
