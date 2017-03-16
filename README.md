@@ -22,18 +22,26 @@ These tools will be used for every lab.
 
 Learning git can get annoying. Here are a few resources that can help you on the way.
 
-### Getting started with Git
+### Git
 
 These are great interactive web tutorials that will help you learn git.
 * [Try Git](https://try.github.io/levels/1/challenges/1)
 * [Learn Git](http://learngitbranching.js.org/)
 
-### Getting started with Travis CI
+### Github
+
+* [Hello World](https://guides.github.com/activities/hello-world/)
+* [The Flow](https://guides.github.com/introduction/flow/)
+* [Forking](https://guides.github.com/activities/forking/)
+* [Using Issues](https://guides.github.com/features/issues/)
+* [Github Markdown](https://guides.github.com/features/mastering-markdown/)
+
+### Travis CI
 
 * [For beginners](https://docs.travis-ci.com/user/for-beginners)
 * [Adding the badge](https://docs.travis-ci.com/user/status-images/)
 
-### Getting started with Codacy
+### Codacy
 
 * [Getting started](https://support.codacy.com/hc/en-us/articles/207278449-Getting-started-with-Codacy)
 * [Github integration](https://support.codacy.com/hc/en-us/articles/207280219-GitHub)
