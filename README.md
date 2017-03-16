@@ -10,9 +10,9 @@ These tools will be used for every lab.
 ### What you have to do
 
 - [ ] Take a screen shot of the VM desktop
-- [ ] Upload the screenshot to this github repo in a folder named turnin
+- [ ] Upload the screenshot to this github repo in a folder named done
 - [ ] Link Travis to this repo
-- [ ] Link codacy to this repo
+- [ ] Link Codacy to this repo
 - [ ] Add travis badge to repo, make sure to use the markdown and not image
 - [ ] Add codacy badge to repo
 
