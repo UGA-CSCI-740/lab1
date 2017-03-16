@@ -20,7 +20,7 @@ These tools will be used for every lab.
 
 ## Things that might help you out.
 
-Learning git can get annoying. Here are a few resources that can help you on the way.
+Learning git can get annoying sometime even puniful. Here are a few resources that can help you on along way.
 
 ### Github
 
